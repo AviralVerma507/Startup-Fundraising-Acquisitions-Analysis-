@@ -3,10 +3,10 @@
 A comprehensive Power BI dashboard analyzing the **Crunchbase Startup Dataset**. This project explores global investment trends, market dynamics, and acquisition statuses across thousands of startups.
 
 ## 📁 Repository Structure
-* **Report/**: Contains the `.pbix` Power BI file.
-* **Data/**: The raw CSV dataset used for the analysis.
-* **Screenshots/**: Visual preview of the dashboard pages.
-* **Export/**: PDF version of the full report for quick viewing.
+* **Startup Fundraising & Acquisitions PPower Bi Report**: It is the `.pbix` Power BI file.
+* **The Crunchbase Startup Fundraising & Acquisitions Dataset**: It is the raw CSV dataset used for the analysis.
+* **Report Images 1 - The Crunchbase Startup Fundraising & Acquisitions Dataset_page-0001 (1) & Report Images 2 - The Crunchbase Startup Fundraising & Acquisitions Dataset_page-0001 (1)**: Visual preview of the dashboard pages.
+* **Report PDF - The Crunchbase Startup Fundraising & Acquisitions Dataset/**: PDF version of the full report for quick viewing.
 
 ## 📊 Dashboard Overview
 
