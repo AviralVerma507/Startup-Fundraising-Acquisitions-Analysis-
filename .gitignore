@@ -1,0 +1,14 @@
+# Power BI temporary files
+*.pbi
+*.pbit
+*.pbix.copy
+*.tmp
+
+# Power BI Desktop local settings
+**/Desktop.ini
+**/ms-pbi.user.json
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
